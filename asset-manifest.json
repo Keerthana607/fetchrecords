@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetchrecords/static/css/main.e6c13ad2.css",
+    "main.js": "/fetchrecords/static/js/main.a45e2a63.js",
+    "index.html": "/fetchrecords/index.html",
+    "main.e6c13ad2.css.map": "/fetchrecords/static/css/main.e6c13ad2.css.map",
+    "main.a45e2a63.js.map": "/fetchrecords/static/js/main.a45e2a63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a45e2a63.js"
+  ]
+}
